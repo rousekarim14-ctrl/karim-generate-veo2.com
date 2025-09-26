@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator karim",
+  "description": "An application to generate short videos from text prompts and optional images using Google's Veo model. Experience the power of AI in video creation.",
+  "requestFramePermissions": []
+}
